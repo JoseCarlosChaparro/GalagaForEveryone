@@ -81,7 +81,7 @@ Para comenzar
 
 A continuación de muestra el enlace para descargar el proyecto Unreal
 
-| Google Drive | [Archivo zip del proyecta][UnrealEnlace] |
+| Google Drive | [Archivo zip del proyecto][UnrealEnlace] |
 | ------ | ------ |
 
 
