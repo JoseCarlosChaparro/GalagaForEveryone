@@ -10,7 +10,7 @@ videojuegos utilizando un dispositivo móvil como controlador. 📱🎮
 
 ## Arquitectura del proyecto
 
-![ArquitecturaProyecto](https://github.com/JoseCarlosChaparro/GalagaForEveryone/blob/main/Imagenes/Arquitectura.jpeg?raw=true)
+![ArquitecturaProyecto](https://github.com/JoseCarlosChaparro/GalagaForEveryone/blob/main/Imagenes/Arquitectura-removebg-preview.png?raw=true)
 
 ## Instalación
 
