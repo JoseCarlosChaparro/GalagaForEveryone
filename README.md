@@ -3,7 +3,7 @@
 
 Processing             |  Unreal Engine | XAMPP
 :-------------------------:|:-------------------------:|:-------------------------:
-![Processing3](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/240px-Processing_3_logo.png) | ![Unreal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/220px-UE_Logo_Black_Centered.svg.png)  | ![Xampp](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/320px-Xampp_logo.svg.png)
+![Processing3](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/240px-Processing_3_logo.png) | ![Unreal](https://github.com/JoseCarlosChaparro/GalagaForEveryone/blob/main/Imagenes/UnrealWhiteLogo.png?raw=true)  | ![Xampp](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/320px-Xampp_logo.svg.png)
 
 Con este proyecto se busca facilitar o acercar un poco a los desarrolladores a herramientas utiles para el desarrollo de 
 videojuegos utilizando un dispositivo móvil como controlador. 📱🎮
